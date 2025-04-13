@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -13,7 +14,7 @@ header {
   border-bottom: 1px solid #333;
 }
 .logo {
-  height: 120px;
+  height: 100px;
   width: auto;
 }
 nav.nav {
@@ -45,7 +46,6 @@ nav.nav a.green-btn {
 }
 .hero {
   background-color: #222;
-  background-image: url('construction-hero.jpg');
   background-size: cover;
   background-position: center;
   height: 90vh;
