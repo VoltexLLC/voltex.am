@@ -1,0 +1,41 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+header {
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid #ddd;
+}
+.logo {
+  max-height: 50px;
+}
+nav {
+  display: flex;
+  gap: 1.5rem;
+}
+nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+.green-btn {
+  padding: 0.5rem 1rem;
+  background-color: #4caf50;
+  color: #fff;
+  border-radius: 4px;
+}
+.header-info {
+  text-align: right;
+}
+.hero {
+  background-color: #4caf50;
+  color: white;
+  padding: 5rem 2rem;
+  text-align: center;
+}
